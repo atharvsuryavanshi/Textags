@@ -4,9 +4,9 @@
 
 The **Textags** is a web application designed to create customizable text tags (also referred to as "pills" or "boxes") that can be styled in various ways. Users can add, modify, and visualize these text tags with different style options before saving them as an image.
 
-## Visit Textag
+## Visit Textags
 
-Use Textags, click here: [Visit Textags](#)
+Use Textags, click here: [Visit Textags](./textags.html)
 
 
 ## Features
